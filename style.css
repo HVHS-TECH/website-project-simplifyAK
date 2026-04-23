@@ -50,7 +50,8 @@
   border: none;
   font-size: 20px;
   cursor: pointer;
-  color: black; 
+  color: black;
+  font-weight: bold;
 }
 
 
