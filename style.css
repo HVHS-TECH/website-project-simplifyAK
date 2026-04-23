@@ -19,7 +19,6 @@
   align-items: center;
   padding-left: 20px;
   margin-top: 15px;
-  transition: (0.2);
 }
 
 .leftlogo:hover img{
@@ -198,7 +197,6 @@ a {
 .linkbox {
   text-decoration: none;
   padding: 5px;
-  transition: (0.2);
 }
 
 .linkbox:hover {
